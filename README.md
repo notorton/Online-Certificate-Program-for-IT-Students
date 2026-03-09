@@ -1,5 +1,5 @@
 # Online Certificate Program for IT Students
-A mobile/web app prototype project that supports Quality Education (SDG 4) including the documentation for planning, design, testing, and final
+A web app prototype project that supports Quality Education (SDG 4) including the documentation for planning, design, testing, and final
 
 # Team Members
 * Project Manager - Orton Chen Menn Hee<br>
@@ -9,7 +9,7 @@ A mobile/web app prototype project that supports Quality Education (SDG 4) inclu
 * Software Tester - Ali Hassan Ali Mohamed
 
 # Project Description
-The Online Certificate Program for IT Students is a web-based education platform designed to help students in the field of Information Technology to improve their technical skills and receive certificates after completing courses. The system allows students to browse a variety of IT courses, enroll in courses, complete quizzes, and receive a digital certificate upon successful completion.<br><br>
+The Online Certificate Program for IT Students is a web-based education platform designed to help students in the field of Information Technology to improve their technical skills and receive certificates after completing courses. The system allows students to browse a variety of IT courses, enroll in courses, complete quizzes, and receive a digital certificate upon successful completion.
 
 This platform also supports Sustainable Development Goal (SDG) 4 – Quality Education by providing accessible learning opportunities for students who want to dive deeper with advanced IT knowledge and professional skills. It helps IT students by providing them a structured way to learn about new technologies and earn certificates that can improve their academic and career opportunities.
 
