@@ -1,0 +1,25 @@
+Functional Requirements:
+- The system should allow students to register and create a new account
+- The system should allow students to log in using their credentials
+- The system should allow students to view the dashboard (home page) upon successful login
+- The system should allow students to view a list of courses that are available
+- The system should allow students to view course details
+- The system should allow students to enroll in a course
+- The system should allow students to view their enrolled courses in the dashboard
+- The system should allow students to complete quizzes
+- The system should allow students to view their quiz results and total score
+- The system should track the status of courses enrolled by the student
+- The system should generate a certificate upon completion of courses
+- The system should allow students to view their certificates
+- The system should allow students to download their certificates
+- The system should allow admins to add new courses
+- The system should allow admins to delete existing courses
+- The system should allow admins to create quizzes
+
+Non-functional requirements:
+- The system should be user-friendly for students
+- The system should allow users to navigate between pages easily
+- The system should allow multiple students to access the program simultaneously
+- The system should respond within seconds
+- The system should only allow admin privileges to admins only
+- The system should protect student's login credentials
