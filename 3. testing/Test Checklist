@@ -1,0 +1,11 @@
+Test Items:
+[✓] Student can login to the system
+[✓] Student can register a new account
+[✓] Student can view the dashboard
+[✓] Student can browse available courses
+[✓] Student can enroll in courses
+[✓] Student can view their certificates
+[✓] Student can download their certificates
+[✓] Admin can add a new course
+[✓] Admin can delete an existing course
+[✓] Admin can create a new quiz for a specific course
