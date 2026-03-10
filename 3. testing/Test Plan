@@ -1,0 +1,26 @@
+Objective of Test: 
+
+The purpose of the test is to verify that our system "Online Certificate Program for IT Students" functions the way it intends to, with the main features for student being able to register an account, enroll in courses, and receive a certificate upon completion of any course.
+
+
+Environment of Testing:
+Device - Desktop/Laptop
+Browser - Any broswer
+Prototype - Figma
+
+
+Features that will be tested:
+1. Student Login
+2. Student Registration
+3. View Dashboard
+4. Browse Courses
+5. Enroll in Course
+6. View Certificates
+7. Download Certificate
+8. Add Course (Admin)
+9. Delete Course (Admin)
+10. Create Quiz (Admin)
+
+
+Method of Testing:
+Ali Hassan Ali Mohamed will be responsible for the test and the testing will be done using a test case template. Each test case will be specific to the features that will be tested as provided above.
