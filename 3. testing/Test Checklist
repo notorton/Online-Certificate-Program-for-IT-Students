@@ -1,3 +1,6 @@
+✓ = pass
+✖ = fail
+
 Test Items:
 [✓] Student can login to the system
 [✓] Student can register a new account
