@@ -1,0 +1,13 @@
+1. Student Login - As a student, I want to login so that I can access my courses
+2. Student Registration - As a student, I want to register so that I can enroll in courses
+3. Dashboard - As a student, I want to view my dashboard so that I can monitor my progress
+4. Course List - As a student, I want to browse courses before enrolling
+5. Course Details - As a student, I want to view course details so that I can get an overview of the course
+6. Enroll in courses - As a student, I want to enroll in courses so that I can start my progress
+7. Online Quiz - As a student, I want to attempt quizzes and receive a score
+8. Quiz Results - As a student, I want to view my quiz score so that I know which area to improve on
+9. Certificate Generation - As a student, I want to receive my certificate after finishing a course
+10. Download Certificate - As a student, I want to download my certificate so that I can save a digital record of my achievements
+11. Add Courses (Admin) - As an Admin, I want to add courses so that student have more learning materials
+12. Delete Courses (Admin) - As an admin, I want to delete old courses so that students won't be misinformed with outdated information
+13. Create Quiz (Admin) - As an Admin, I would like to create quizzes so students can test their knowledge.
